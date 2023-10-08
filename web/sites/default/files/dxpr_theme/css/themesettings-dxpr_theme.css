@@ -1,30 +1,30 @@
 
 body, .toooltip {
-  font-family: "Source Sans Pro", "Source Sans Pro";
+  font-family: "Josefin Sans", "Josefin Sans";
   font-weight: 400;
   font-style: normal;
 }
 
 h1,h2,h3,h4,h5,h6,label,.field--label,.page-title, .html .tp-caption {
-  font-family: "Source Sans Pro Light", "Source Sans Pro";
-  font-weight: 300;
+  font-family: "Josefin Sans Bold", "Josefin Sans";
+  font-weight: 700;
   font-style: normal;
 }
 
 nav,nav ul li,nav a {
-  font-family: "Source Sans Pro", "Source Sans Pro";
+  font-family: "Josefin Sans", "Josefin Sans";
   font-weight: 400;
   font-style: normal;
 }
 
 .site-name, .navbar-brand {
-  font-family: "Source Sans Pro Light", "Source Sans Pro";
-  font-weight: 300;
+  font-family: "Josefin Sans Bold", "Josefin Sans";
+  font-weight: 700;
   font-style: normal;
 }
 
 blockquote, blockquote p {
-  font-family: "Source Sans Pro Light Italic", "Source Sans Pro";
+  font-family: "Josefin Sans Light Italic", "Josefin Sans";
   font-weight: 300;
   font-style: italic;
 }
@@ -42,11 +42,11 @@ blockquote, blockquote p {
 }
 
 .body--dxpr-theme-nav-desktop #navbar.dxpr-theme-header--top {
-  background-color: rgba(40,78,217,1);
+  background-color: rgba(12,7,5,1);
   opacity: 1;
 }
 .body--dxpr-theme-nav-desktop #navbar.dxpr-theme-header--top.affix {
-  background-color: rgba(40,78,217,1);
+  background-color: rgba(12,7,5,1);
   opacity: 1;
 }
 
@@ -139,13 +139,13 @@ hr { margin-left: 0;margin-right: auto; }
 
 .page-title-full-width-container:after { background-position: center center; }
 
-.dxpr-theme-boxed-container { background: #263052; }
+.dxpr-theme-boxed-container { background: #0C0705; }
 
-.dxpr-theme-boxed-container .nav-tabs >li.active a { border-bottom-color: #263052; }
+.dxpr-theme-boxed-container .nav-tabs >li.active a { border-bottom-color: #0C0705; }
 
-.dxpr-theme-boxed-container .tabs-left > .nav-tabs .active>a { border-right-color: #263052; }
+.dxpr-theme-boxed-container .tabs-left > .nav-tabs .active>a { border-right-color: #0C0705; }
 
-.dxpr-theme-boxed-container .tabs-right > .nav-tabs .active>a { border-left-color: #263052; }
+.dxpr-theme-boxed-container .tabs-right > .nav-tabs .active>a { border-left-color: #0C0705; }
 
 .container {
   max-width: 1280px;
