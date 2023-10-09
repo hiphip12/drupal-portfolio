@@ -18,4 +18,26 @@ lando start
 For alternatives, see [official Drupal docs](https://www.drupal.org/docs/getting-started/installing-drupal)
 
 
-### TBD
+## Screenshots
+
+Front page:
+![alt text](assets/Screenshot_frontpage1.png)
+![alt text](assets/Screenshot_frontpage2.png)
+
+Projects page:
+![alt text](assets/Screenshot_projects.png)
+
+Contact:
+![alt text](assets/Screenshot_contact.png)
+
+## Credits
+
+The task itself and guidance were provided by the excellent [Santosh Kalwar](https://github.com/kalwar) from the Helsinki Business College.
+
+Hero banner's video is from [youtube](youtube.com)
+
+Pictures for "About" page and "Coming Soon" section, are courtesy of [Unsplash](https://unsplash.com/)
+
+Picture for "Who Am I" section, is courtesy of [Pexels](https://www.pexels.com)
+
+
