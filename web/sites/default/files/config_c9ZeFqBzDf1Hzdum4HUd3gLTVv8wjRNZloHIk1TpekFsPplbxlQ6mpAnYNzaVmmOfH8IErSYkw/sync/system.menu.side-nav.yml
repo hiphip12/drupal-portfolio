@@ -1,0 +1,8 @@
+uuid: 28920ee6-8969-43c5-bb44-b6dd38fb3ffb
+langcode: en
+status: true
+dependencies: {  }
+id: side-nav
+label: 'Side Nav'
+description: 'Side Bar Menu'
+locked: false

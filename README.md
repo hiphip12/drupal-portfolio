@@ -4,7 +4,7 @@
 
 This is a portfolio website example made using Drupal 10's core modules + DXPR Themes and Builder Modules, customizing displayed content using the various options these tools provide. This project was an assigment from the program in Web Development [@Helsinki Business School](https://en.bc.fi) (Oct 2023).
 
-The installation and local development were made using [Lando](https://docs.lando.dev/drupal/getting-started.html)
+The installation and local development were made using [Lando](https://docs.lando.dev/drupal/getting-started.html). Backend tools used included Docker and Phpmyadmin.
 
 ## Set up
 
@@ -40,4 +40,9 @@ Pictures for "About" page and "Coming Soon" section, are courtesy of [Unsplash](
 
 Picture for "Who Am I" section, is courtesy of [Pexels](https://www.pexels.com).
 
+### Drupal Modules
 
+- [DXPR Themes](https://www.drupal.org/project/dxpr_theme)
+- [DXPR Builder](https://www.drupal.org/project/dxpr_builder)
+- [Pathauto](https://www.drupal.org/search/site/pathauto)
+- [Contact](https://www.drupal.org/docs/8/core/modules/contact/overview)

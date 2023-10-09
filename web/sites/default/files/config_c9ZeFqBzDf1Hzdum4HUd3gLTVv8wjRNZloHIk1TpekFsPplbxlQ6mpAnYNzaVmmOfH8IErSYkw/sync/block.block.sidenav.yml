@@ -1,0 +1,25 @@
+uuid: befcab74-d37a-4b6d-8799-40808bdadb07
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.side-nav
+  module:
+    - system
+  theme:
+    - olivero
+id: sidenav
+theme: olivero
+region: sidebar
+weight: 0
+provider: null
+plugin: 'system_menu_block:side-nav'
+settings:
+  id: 'system_menu_block:side-nav'
+  label: 'Recent Articles'
+  label_display: visible
+  provider: system
+  level: 1
+  depth: 0
+  expand_all_items: false
+visibility: {  }

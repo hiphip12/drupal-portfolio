@@ -1,0 +1,27 @@
+uuid: f20434e8-99cc-4edc-8058-3ac65cf68c1f
+langcode: en
+status: true
+dependencies:
+  module:
+    - dxpr_builder
+    - system
+  theme:
+    - claro
+id: licenseinfo
+theme: claro
+region: pre_content
+weight: 0
+provider: null
+plugin: license_info
+settings:
+  id: license_info
+  label: 'DXPR License info'
+  label_display: '0'
+  provider: dxpr_builder
+visibility:
+  request_path:
+    id: request_path
+    negate: false
+    pages: |-
+      /admin/people
+      /admin/dxpr_studio/dxpr_builder/user_licenses

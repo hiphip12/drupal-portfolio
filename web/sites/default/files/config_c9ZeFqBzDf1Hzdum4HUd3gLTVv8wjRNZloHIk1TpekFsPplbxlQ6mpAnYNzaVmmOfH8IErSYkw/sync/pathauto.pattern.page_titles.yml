@@ -1,0 +1,23 @@
+uuid: 623ccbb1-ed24-47bc-b366-44fcaedb2aae
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: page_titles
+label: 'Page titles'
+type: 'canonical_entities:node'
+pattern: '[node:title]'
+selection_criteria:
+  3a3bf5b8-8cdb-474e-a442-609daec4ba33:
+    id: 'entity_bundle:node'
+    negate: false
+    uuid: 3a3bf5b8-8cdb-474e-a442-609daec4ba33
+    context_mapping:
+      node: node
+    bundles:
+      drag_and_drop_page: drag_and_drop_page
+      page: page
+selection_logic: and
+weight: -5
+relationships: {  }

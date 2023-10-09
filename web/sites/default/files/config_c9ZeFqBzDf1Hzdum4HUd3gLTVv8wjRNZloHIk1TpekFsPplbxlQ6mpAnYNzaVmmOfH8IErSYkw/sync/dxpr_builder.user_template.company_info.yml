@@ -1,0 +1,9 @@
+uuid: 99148fa5-dd54-4321-a36f-1de2510e597b
+langcode: en
+status: true
+dependencies: {  }
+id: company_info
+label: 'company info'
+template: '<div class="az-element az-section az-element--controls-top-left" style="padding-top:60px;padding-bottom:60px;" data-dxpr-builder-libraries="" data-az-id="gbv74reihl" data-azat-pid="gbrldabbmp" id="gbrldabbmp" data-azb="az_section" data-az-human-readable="Section" data-az-human-readable-en="Section" data-azat-style="padding-top:60px;padding-bottom:60px;"><div class="az-ctnr container" data-azcnt="true"><div class="az-element az-text" style="" data-az-id="gbu5k6cp9j" data-azat-pid="gba5s8h9l8" id="gba5s8h9l8" data-azb="az_text" data-az-human-readable="Text" data-az-human-readable-en="Text" data-azat-box_model="000000" data-azcnt="true"><h2 style="text-align: center;"><span style="color:#ffffff;">Our Key Leaders</span></h2></div></div><div title="Add Section Below" class="control add-section btn btn-default glyphicon glyphicon-plus-sign"></div></div>'
+uid: 1
+global: true

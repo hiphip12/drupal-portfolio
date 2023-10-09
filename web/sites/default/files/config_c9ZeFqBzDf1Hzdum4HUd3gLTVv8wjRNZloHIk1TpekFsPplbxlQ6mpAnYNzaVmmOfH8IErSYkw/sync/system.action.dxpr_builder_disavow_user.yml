@@ -1,0 +1,13 @@
+uuid: 34836e29-3354-45b0-b914-4f3ad44c6bec
+langcode: en
+status: true
+dependencies:
+  module:
+    - dxpr_builder
+_core:
+  default_config_hash: U8Y_j-K3QWYqW_udqNtnUaUV26SqN1zFYeCCBLGNTj4
+id: dxpr_builder_disavow_user
+label: 'Disable DXPR Builder editing permission for the selected user(s)'
+type: user
+plugin: dxpr_builder_disavow_user
+configuration: {  }

@@ -1,0 +1,12 @@
+uuid: e5ce286a-01b2-48eb-8a3a-809af1386050
+langcode: en
+status: true
+dependencies: {  }
+id: contact_me
+label: 'Contact me'
+recipients:
+  - admin@example.com
+reply: ''
+weight: 1
+message: 'Thank you! I will get back to you shortly.'
+redirect: ''
