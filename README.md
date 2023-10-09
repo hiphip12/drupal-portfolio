@@ -15,7 +15,7 @@ lando init
 lando start
 ```
 
-For alternatives, see [official Drupal docs](https://www.drupal.org/docs/getting-started/installing-drupal)
+For alternatives, see [official Drupal docs](https://www.drupal.org/docs/getting-started/installing-drupal).
 
 
 ## Screenshots
@@ -25,7 +25,7 @@ Front page:
 ![alt text](assets/Screenshot_frontpage2.png)
 
 Projects page:
-![alt text](assets/Screenshot_projects.png)
+![alt text](assets/Screenshot_projects1.png)
 
 Contact:
 ![alt text](assets/Screenshot_contact.png)
@@ -34,10 +34,10 @@ Contact:
 
 The task itself and guidance were provided by the excellent [Santosh Kalwar](https://github.com/kalwar) from the Helsinki Business College.
 
-Hero banner's video is from [youtube](youtube.com)
+Hero banner's video is from [youtube](https://www.youtube.com/watch?v=QKKujrm8O7M).
 
-Pictures for "About" page and "Coming Soon" section, are courtesy of [Unsplash](https://unsplash.com/)
+Pictures for "About" page and "Coming Soon" section, are courtesy of [Unsplash](https://unsplash.com/).
 
-Picture for "Who Am I" section, is courtesy of [Pexels](https://www.pexels.com)
+Picture for "Who Am I" section, is courtesy of [Pexels](https://www.pexels.com).
 
 
