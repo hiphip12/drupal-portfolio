@@ -20,14 +20,14 @@ For alternatives, see [official Drupal docs](https://www.drupal.org/docs/getting
 
 ## Screenshots
 
-Front page:
+### Front page:
 ![alt text](assets/Screenshot_frontpage1.png)
 ![alt text](assets/Screenshot_frontpage2.png)
 
-Projects page:
+### Projects page:
 ![alt text](assets/Screenshot_projects1.png)
 
-Contact:
+### Contact:
 ![alt text](assets/Screenshot_contact.png)
 
 ## Credits
