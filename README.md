@@ -46,3 +46,4 @@ Picture for "Who Am I" section, is courtesy of [Pexels](https://www.pexels.com).
 - [DXPR Builder](https://www.drupal.org/project/dxpr_builder)
 - [Pathauto](https://www.drupal.org/search/site/pathauto)
 - [Contact](https://www.drupal.org/docs/8/core/modules/contact/overview)
+- [File Delete](https://www.drupal.org/project/file_delete)
