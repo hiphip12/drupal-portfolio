@@ -12,9 +12,9 @@ Lando:
 
 ```shell
 lando composer install
-lando db-import drupal10.2023-10-12-1697095881.sql.gz
+lando db-import drupal10.2023-10-12-1697095881.sql.gz  --no-wipe
 lando drush cim
-lando star
+lando start
 ```
 
 For alternatives, see [official Drupal docs](https://www.drupal.org/docs/getting-started/installing-drupal).
