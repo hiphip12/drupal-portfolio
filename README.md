@@ -11,8 +11,10 @@ The installation and local development were made using [Lando](https://docs.land
 Lando:
 
 ```shell
-lando init
-lando start
+lando composer install
+lando db-import drupal10.2023-10-12-1697095881.sql.gz
+lando drush cim
+lando star
 ```
 
 For alternatives, see [official Drupal docs](https://www.drupal.org/docs/getting-started/installing-drupal).
