@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a portfolio website example made using Drupal 10's core modules + DXPR Themes and Builder Modules, customizing displayed content using the various options these tools provide. This project was an assigment from the program in Web Development [@Helsinki Business School](https://en.bc.fi) (Oct 2023).
+This is a portfolio website example made using Drupal 10's core modules + DXPR Themes and Builder Modules, customizing displayed content using the various options these tools provide. This project was an assigment given by the program in Web Development [@Helsinki Business School](https://en.bc.fi) (Oct 2023).
 
 The installation and local development were made using [Lando](https://docs.lando.dev/drupal/getting-started.html). Backend tools used included Docker and Phpmyadmin.
 
